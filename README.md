@@ -1,5 +1,7 @@
 # Splitting Planar Necklaces with Few Straight Cuts
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22950081.svg)](https://doi.org/10.5281/zenodo.22950081)
+
 Companion repo for "Splitting Planar Necklaces with Few Straight Cuts" paper.
 
 ## Installation
